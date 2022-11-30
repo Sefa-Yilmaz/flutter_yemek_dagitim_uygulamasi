@@ -1,0 +1,7 @@
+{
+    "dart.lineLength": 150,
+    "html.format.maxPreserveNewLines": null,
+    "html.format.wrapLineLength": 150,
+    "editor.formatOnSave": true,
+    "dartImport.fixOnSave": true
+}
